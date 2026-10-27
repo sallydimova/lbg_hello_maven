@@ -9,6 +9,7 @@ public class App
     public static void main( String[] args )
     {
         System.out.println(sayHello());
+        System.out.println(sayHelloToSomeone("Ishita"));
         System.out.println(sayHelloToSomeone("Alice"));
         System.out.println(sayHelloToSomeone("Bob"));
         System.out.println(sayHelloToSomeone("Charlie"));
